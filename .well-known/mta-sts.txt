@@ -1,4 +1,6 @@
 version: STSv1
 mode: enforce
 mx: *.mail.protection.outlook.com
+mx: isiaic-co-uk.mail.protection.outlook.com
+mx: wolfendenproperties-co-uk02c.mail.protection.outlook.com
 max_age: 86400
